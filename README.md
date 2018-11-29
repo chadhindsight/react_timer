@@ -2,7 +2,7 @@
 
 A basic React app that allows the user to increase, decrease, or reset a timer.
 
-### Developed with
+### Developed with the following 
 
 1. Node.js
 2. React
